@@ -21,7 +21,7 @@ public class MemberTest {
     }
 
     @Test
-    public void inputNameReturnName(){
+    public void inputNameReturnName(){ //checks whether the result matches with the expected value
 
         member.setName("Mia");
         String result = member.getName();
@@ -31,7 +31,7 @@ public class MemberTest {
     }
 
     @Test
-    public void inputAgeReturnAge() {
+    public void inputAgeReturnAge() { //checks whether the result matches the expected value
 
         member.setAge(25);
         int result = member.getAge();
@@ -39,7 +39,7 @@ public class MemberTest {
     }
 
     @Test
-    public void inputSalaryGetSalary() {
+    public void inputSalaryGetSalary() { //checks whether the result matches the expected value
 
         member.setSalary(15000);
         int result = member.getSalary();

@@ -2,16 +2,16 @@ package com.stackroute.javaexercise2;
 
 public class Student {
 
-      public double average(int n, int[] marksArray){
+      public double average(int n, int[] marksArray){ //returns the average mark of all the students
           int sum=0;
-          for(int i=0; i<n; ++i){
+          for(int i=0; i<marksArray.length; ++i){
               sum+=marksArray[i];
           }
 
           return (sum/(double)n);
       }
 
-      public int maximum(int n, int[] marksArray){
+      public int maximum(int n, int[] marksArray){ //returns the maximum mark among all the marks
           int max = marksArray[0];
           for(int i=0; i<n; ++i) {
               if(marksArray[i]>max){
@@ -21,7 +21,7 @@ public class Student {
           return max;
       }
 
-        public int minimum(int n, int[] marksArray){
+        public int minimum(int n, int[] marksArray){  //returns the minimum mark among all the marks
             int min = marksArray[0];
             for(int i=0; i<n; ++i) {
                 if(marksArray[i]<min){

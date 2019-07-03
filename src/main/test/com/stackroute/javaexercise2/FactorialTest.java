@@ -21,14 +21,14 @@ public class FactorialTest {
     }
 
     @Test
-    public void ReturnArrayOfNumbers(){
+    public void returnArrayOfNumbers(){ //checks whether the result matches with the expected value or not
         int result[] = factorial.intFactorial();
         int expected[] = {1,2,3,4,5,6,7,8,9,10,11,12};
         assertArrayEquals(expected,result);
     }
 
     @Test
-    public void ReturnArrayOfLongNumbers(){
+    public void returnArrayOfLongNumbers(){ //checks whether the result matches with the expected value or not
         long result[] = factorial.longFactorial();
         long expected[] = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20};
         assertArrayEquals(expected,result);

@@ -20,7 +20,7 @@ public class StudentTest {
     }
 
     @Test
-    public void InputNumberOfStudentsAndArrayOfMarksShouldReturnAverage() {
+    public void inputNumberOfStudentsAndArrayOfMarksShouldReturnAverage() { //checks whether the result matches the expected value
         int number = 5;
         int marksArray[] = {78,89,87,98,79};
         double average = student.average(number, marksArray);
@@ -28,7 +28,7 @@ public class StudentTest {
     }
 
     @Test
-    public void InputNumberOfStudentsAndArrayOfMarksShouldReturnMaximumMarks() {
+    public void inputNumberOfStudentsAndArrayOfMarksShouldReturnMaximumMarks() { //checks whether the result matches the expected value
         int number = 5;
         int marksArray[] = {78,89,87,98,79};
         int maximum = student.maximum(number, marksArray);
@@ -36,11 +36,20 @@ public class StudentTest {
     }
 
     @Test
-    public void InputNumberOfStudentsAndArrayOfMarksShouldReturnMinimumMarks() {
+    public void inputNumberOfStudentsAndArrayOfMarksShouldReturnMinimumMarks() { //checks whether the result matches the expected value
         int number = 5;
         int marksArray[] = {78,89,87,98,79};
         int minimum = student.minimum(number, marksArray);
         assertEquals(78,minimum);
     }
+
+    @Test
+    public void inputZeroReturnsException() { //checks for exception
+        int number = 0;
+        int marksArray[] = {78,89,87,98,79};
+        double result = student.average(number, marksArray);
+
+    }
+
 
 }

@@ -20,21 +20,27 @@ public class EvenOddTest {
     }
 
     @Test
-    public void InputEvenReturnTrue(){
+    public void inputEvenReturnTrue(){ //checks if the function returns true or not
         boolean result = evenOdd.isEven(6);
-        assertEquals(true,result);
+        assertTrue(result);
     }
 
     @Test
-    public void InputAnotherEvenReturnTrue(){
+    public void inputAnotherEvenReturnTrue(){ //checks if the function returns true or not
         boolean result = evenOdd.isEven(28);
-        assertEquals(true,result);
+        assertTrue(result);
     }
 
     @Test
-    public void InputOddReturnFalse(){
+    public void inputOddReturnFalse(){ //checks if the function returns false or not
         boolean result = evenOdd.isEven(13);
-        assertEquals(false,result);
+        assertFalse(result);
+    }
+
+    @Test
+    public void inputNegativeEvenReturnEven() {  //checks if the function returns false or not
+        boolean result = evenOdd.isEven(-23);
+        assertFalse(result);
     }
 
 

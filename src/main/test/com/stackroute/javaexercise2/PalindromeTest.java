@@ -10,18 +10,18 @@ public class PalindromeTest {
 
     @Before
     public void setUp() {
-        System.out.println("Before");
+
         palindrome = new Palindrome();
     }
 
     @After
     public void tearDown() {
-        System.out.println("After");
+
         palindrome = null;
     }
 
     @Test
-    public void givenPalindromeStringShouldReturnPalindrome() {
+    public void givenPalindromeStringShouldReturnPalindrome() { //checks whether the result matches the expected value
         //arrange
 
         //act
@@ -31,7 +31,7 @@ public class PalindromeTest {
     }
 
     @Test
-    public void givenPalindromeString1ShouldReturnPalindrome() {
+    public void givenPalindromeString1ShouldReturnPalindrome() { //checks whether the result matches the expected value
         //arrange
 
         //act
@@ -41,7 +41,7 @@ public class PalindromeTest {
     }
 
     @Test
-    public void givenNonPalindromeStringShouldReturnNonPalindrome() {
+    public void givenNonPalindromeStringShouldReturnNonPalindrome() { //checks whether the result matches the expected value
         //arrange
 
         //act
@@ -49,6 +49,12 @@ public class PalindromeTest {
         //assert
         assertEquals("not palindrome",result);
     }
+
+    @Test(expected = NullPointerException.class) //checks for exception
+    public void inputNullReturnException() {
+        String result = palindrome.checkPalindrome(null);
+    }
+
 }
 
 

@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3311cd5-50b0-4f05-bfb8-f827097cd101" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/src/com/stackroute/javaexercise2/FileUpperCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/src/com/stackroute/javaexercise2/FileUpperCase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/javaexercise2/FileUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/javaexercise2/FileUpperCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/javaexercise2/FileUpperCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/javaexercise2/FileUpperCaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/com/stackroute/javaexercise2/FileUpperCaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/com/stackroute/javaexercise2/FileUpperCaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/com/stackroute/javaexercise2/EvenOddTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/com/stackroute/javaexercise2/EvenOddTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/com/stackroute/javaexercise2/FactorialTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/com/stackroute/javaexercise2/FactorialTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/com/stackroute/javaexercise2/MemberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/com/stackroute/javaexercise2/MemberTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/com/stackroute/javaexercise2/PalindromeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/com/stackroute/javaexercise2/PalindromeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/com/stackroute/javaexercise2/PowerOfFourTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/com/stackroute/javaexercise2/PowerOfFourTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/com/stackroute/javaexercise2/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/com/stackroute/javaexercise2/StudentTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,9 +35,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -71,7 +72,7 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23739073" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23739073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

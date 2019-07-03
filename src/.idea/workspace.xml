@@ -14,22 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/ByteArrayTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/EvenOddTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="675">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#231#232#0" expanded="true" />
@@ -40,19 +28,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Frequency.java">
+        <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/PowerOfFour.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <state relative-caret-position="165">
+              <caret line="11" column="94" selection-start-line="11" selection-start-column="94" selection-end-line="11" selection-end-column="94" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/FrequencyTest.java">
+        <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/PowerOfFourTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+            <state relative-caret-position="179">
+              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="104" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/StudentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="330">
+              <caret line="22" column="130" selection-start-line="22" selection-start-column="130" selection-end-line="22" selection-end-column="130" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/MemberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="615">
+              <caret line="41" column="95" selection-start-line="41" selection-start-column="95" selection-end-line="41" selection-end-column="95" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/PalindromeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="-228">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,10 +85,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/PowerOfFourTest.java">
+        <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="90">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -108,20 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/FactorialTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/FileUpperCaseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            <state relative-caret-position="267">
+              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,24 +118,24 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Palindrome.java" />
-        <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/PowerOfFour.java" />
         <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/MemberVariable.java" />
-        <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Member.java" />
         <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/FileReader.java" />
-        <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/EvenOdd.java" />
-        <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Student.java" />
-        <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Factorial.java" />
         <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/FileUpperCase.java" />
-        <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/ByteArray.java" />
         <option value="$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/ByteArrayTest.java" />
         <option value="$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/FrequencyTest.java" />
         <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Frequency.java" />
         <option value="$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/FileUpperCaseTest.java" />
+        <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/ByteArray.java" />
+        <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/EvenOdd.java" />
         <option value="$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/EvenOddTest.java" />
-        <option value="$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/FactorialTest.java" />
+        <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Factorial.java" />
+        <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Member.java" />
         <option value="$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/MemberTest.java" />
+        <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Palindrome.java" />
         <option value="$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/PowerOfFour.java" />
+        <option value="$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Student.java" />
+        <option value="$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/FactorialTest.java" />
         <option value="$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/PowerOfFourTest.java" />
         <option value="$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/StudentTest.java" />
       </list>
@@ -176,7 +152,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,6 +232,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -288,8 +264,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FileUpperCaseTest.GivenFileNameDisplaysInUppercase">
-    <configuration name="ByteArrayTest.returnsByteArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PowerOfFourTest">
+    <configuration name="EvenOddTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="src" />
       <extension name="coverage">
         <pattern>
@@ -298,14 +274,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.javaexercise2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.javaexercise2.ByteArrayTest" />
-      <option name="METHOD_NAME" value="returnsByteArray" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.javaexercise2.EvenOddTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialTest.ReturnArrayOfLongNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FactorialTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="src" />
       <extension name="coverage">
         <pattern>
@@ -315,13 +290,12 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.javaexercise2" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.javaexercise2.FactorialTest" />
-      <option name="METHOD_NAME" value="ReturnArrayOfLongNumbers" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialTest.ReturnArrayOfNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MemberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="src" />
       <extension name="coverage">
         <pattern>
@@ -330,14 +304,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.javaexercise2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.javaexercise2.FactorialTest" />
-      <option name="METHOD_NAME" value="ReturnArrayOfNumbers" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.javaexercise2.MemberTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileUpperCaseTest.GivenFileNameDisplaysInUppercase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="src" />
       <extension name="coverage">
         <pattern>
@@ -346,14 +319,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.javaexercise2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.javaexercise2.FileUpperCaseTest" />
-      <option name="METHOD_NAME" value="GivenFileNameDisplaysInUppercase" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.javaexercise2.PalindromeTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrequencyTest.returnsWordCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PowerOfFourTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="src" />
       <extension name="coverage">
         <pattern>
@@ -362,20 +334,19 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.javaexercise2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.javaexercise2.FrequencyTest" />
-      <option name="METHOD_NAME" value="returnsWordCount" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.javaexercise2.PowerOfFourTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FileUpperCaseTest.GivenFileNameDisplaysInUppercase" />
-        <item itemvalue="JUnit.FrequencyTest.returnsWordCount" />
-        <item itemvalue="JUnit.ByteArrayTest.returnsByteArray" />
-        <item itemvalue="JUnit.FactorialTest.ReturnArrayOfLongNumbers" />
-        <item itemvalue="JUnit.FactorialTest.ReturnArrayOfNumbers" />
+        <item itemvalue="JUnit.PowerOfFourTest" />
+        <item itemvalue="JUnit.PalindromeTest" />
+        <item itemvalue="JUnit.MemberTest" />
+        <item itemvalue="JUnit.FactorialTest" />
+        <item itemvalue="JUnit.EvenOddTest" />
       </list>
     </recent_temporary>
   </component>
@@ -393,42 +364,43 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FileUpperCaseTest_GivenFileNameDisplaysInUppercase - 2019.06.30 at 14h 59m 53s.xml">
-      <configuration name="FileUpperCaseTest.GivenFileNameDisplaysInUppercase" configurationId="JUnit" />
+    <history-entry file="StudentTest - 2019.07.03 at 15h 22m 23s.xml">
+      <configuration name="StudentTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileUpperCaseTest_GivenFileNameDisplaysInUppercase - 2019.06.30 at 15h 00m 15s.xml">
-      <configuration name="FileUpperCaseTest.GivenFileNameDisplaysInUppercase" configurationId="JUnit" />
+    <history-entry file="StudentTest_inputZeroReturnsException - 2019.07.03 at 15h 23m 35s.xml">
+      <configuration name="StudentTest.inputZeroReturnsException" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileUpperCaseTest_GivenFileNameDisplaysInUppercase - 2019.06.30 at 15h 00m 54s.xml">
-      <configuration name="FileUpperCaseTest.GivenFileNameDisplaysInUppercase" configurationId="JUnit" />
+    <history-entry file="StudentTest_inputZeroReturnsException - 2019.07.03 at 15h 26m 54s.xml">
+      <configuration name="StudentTest.inputZeroReturnsException" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ByteArrayTest_returnsByteArray - 2019.06.30 at 15h 57m 02s.xml">
-      <configuration name="ByteArrayTest.returnsByteArray" configurationId="JUnit" />
+    <history-entry file="StudentTest_inputZeroReturnsException - 2019.07.03 at 15h 27m 19s.xml">
+      <configuration name="StudentTest.inputZeroReturnsException" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FrequencyTest_returnsWordCount - 2019.06.30 at 16h 01m 38s.xml">
-      <configuration name="FrequencyTest.returnsWordCount" configurationId="JUnit" />
+    <history-entry file="StudentTest - 2019.07.03 at 15h 28m 53s.xml">
+      <configuration name="StudentTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FrequencyTest_returnsWordCount - 2019.06.30 at 16h 02m 01s.xml">
-      <configuration name="FrequencyTest.returnsWordCount" configurationId="JUnit" />
+    <history-entry file="EvenOddTest - 2019.07.03 at 15h 29m 09s.xml">
+      <configuration name="EvenOddTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FrequencyTest_returnsWordCount - 2019.06.30 at 16h 03m 12s.xml">
-      <configuration name="FrequencyTest.returnsWordCount" configurationId="JUnit" />
+    <history-entry file="FactorialTest - 2019.07.03 at 15h 29m 14s.xml">
+      <configuration name="FactorialTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FrequencyTest_returnsWordCount - 2019.07.01 at 15h 55m 47s.xml">
-      <configuration name="FrequencyTest.returnsWordCount" configurationId="JUnit" />
+    <history-entry file="MemberTest - 2019.07.03 at 15h 29m 42s.xml">
+      <configuration name="MemberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileUpperCaseTest_GivenFileNameDisplaysInUppercase - 2019.07.01 at 15h 56m 05s.xml">
-      <configuration name="FileUpperCaseTest.GivenFileNameDisplaysInUppercase" configurationId="JUnit" />
+    <history-entry file="PalindromeTest - 2019.07.03 at 15h 29m 48s.xml">
+      <configuration name="PalindromeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileUpperCaseTest_GivenFileNameDisplaysInUppercase - 2019.07.01 at 15h 58m 09s.xml">
-      <configuration name="FileUpperCaseTest.GivenFileNameDisplaysInUppercase" configurationId="JUnit" />
+    <history-entry file="PowerOfFourTest - 2019.07.03 at 15h 30m 26s.xml">
+      <configuration name="PowerOfFourTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6283423" visible="true" weight="0.2669805" />
-      <window_info id="Structure" order="1" sideWeight="0.37165776" side_tool="true" visible="true" weight="0.2669805" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62350595" visible="true" weight="0.2784129" />
+      <window_info id="Structure" order="1" sideWeight="0.37649402" side_tool="true" visible="true" weight="0.2784129" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -436,7 +408,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.328877" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.328877" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -472,77 +444,26 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/FrequencyTest.java</url>
-          <line>21</line>
-          <properties class="com.stackroute.javaexercise2.FrequencyTest" method="returnsWordCount">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/MemberVariable.java" />
-    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/PowerOfFour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/FileReader.java" />
-    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/EvenOdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/ByteArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/FileUpperCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/ByteArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -553,20 +474,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/ByteArrayTest.java">
+    <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/FrequencyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="64" />
+        <state relative-caret-position="240">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/FileUpperCaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/ByteArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/EvenOdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="75" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="45" column="116" selection-start-line="45" selection-start-column="116" selection-end-line="45" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding>
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="153" selection-start-line="11" selection-start-column="153" selection-end-line="11" selection-end-column="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/PowerOfFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="94" selection-start-line="11" selection-start-column="94" selection-end-line="11" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/javaexercise2/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/EvenOddTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="675">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#231#232#0" expanded="true" />
@@ -577,28 +561,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/FactorialTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/FileUpperCaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/FrequencyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        <state relative-caret-position="267">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -607,8 +571,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/MemberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="615">
+          <caret line="41" column="95" selection-start-line="41" selection-start-column="95" selection-end-line="41" selection-end-column="95" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -617,8 +581,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/PalindromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="-228">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -627,15 +591,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/PowerOfFourTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="179">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/test/com/stackroute/javaexercise2/StudentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="330">
+          <caret line="22" column="130" selection-start-line="22" selection-start-column="130" selection-end-line="22" selection-end-column="130" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

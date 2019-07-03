@@ -21,7 +21,7 @@ public class PowerOfFourTest {
     }
 
     @Test
-    public void GivenPowerOfFourShouldReturn1() {
+    public void givenPowerOfFourShouldReturn1() { //checks whether the result matches the expected value
 
         int result = powerOfFour.isPowerOfFour(16);
 
@@ -30,7 +30,7 @@ public class PowerOfFourTest {
     }
 
     @Test
-    public void GivenAnotherPowerOfFourShouldReturn1() {
+    public void givenAnotherPowerOfFourShouldReturn1() { //checks whether the result matches the expected value
 
         int result = powerOfFour.isPowerOfFour(64);
 
@@ -39,11 +39,11 @@ public class PowerOfFourTest {
     }
 
     @Test
-    public void GivenNotAPowerOfFourShouldReturn0() {
+    public void givenNotAPowerOfFourShouldReturn0() { //checks whether the result matches the expected value
 
         int result = powerOfFour.isPowerOfFour(25);
 
-        assertEquals(0,result);
+        assertNotEquals(1,result);
 
     }
 
